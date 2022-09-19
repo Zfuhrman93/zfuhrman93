@@ -6,7 +6,7 @@
 
 <div id="info" align="center">
   - 🔭 I’m currently working on bettering my skill in the MERN stack and the job hunt<br/>
-  - 🌱 I’m currently learning Python and it's frameworks, mainly Pygame to learn some basic's of game design<br/>
+  - 🌱 I’m currently learning Typescript and how to utilize it in my current projects.<br/>
   - ⚡ In my free time I like to learn new coding concepts, work on personal projects, and explore the current tech landscape<br/>
 </div>
 
